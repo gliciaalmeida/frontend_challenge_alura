@@ -55,10 +55,31 @@ section.title{
 section.about{
 
 }
+/*Sessão Skills*/
+
+.skills {
+    width: Fill (1,440px)px;
+    height: Hug (1,245px)px;
+    gap: 88px;
+    opacity: 0px;
+}
+
+.skills__box{
+    width: Hug (1,136px)px;
+    height: Hug (244px)px;
+    gap: 32px;
+    opacity: 0px;
+}
+
+
+.skills__title {
+
+}
 
 /*Sessão Hobbies*/
 
 section.hobbies{
+
     
 }
 
